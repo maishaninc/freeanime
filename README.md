@@ -1,11 +1,35 @@
 # freeanime
 A collection of publicly uploaded anime websites
 
+<p align="center">
+    <a href="https://www.apachecn.org">
+        <img width="200" src="https://freeanime.org/mxtheme/images/logo.png">
+    </a>
+    <br >
+    <a href="https://freeanime.org/"><img src="https://img.shields.io/badge/%3E-HOME-green.svg"></a>
+    <a href="https://wiki.freeanime.org/about/"><img src="https://img.shields.io/badge/%3E-ABOUT-green.svg"></a>
+    <a href=" support@freeanime.org "><img src="https://img.shields.io/badge/%3E-Email-green.svg"></a>
+</p>
+
+<h1 align="center"><a href="https://github.com/maishaninc/freeanime">FreeAnime</a></h1>
+
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+> 
+> 一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。——Stewart Brand
+
+* [社区须知](https://wiki.freeanime.org)
+* [为什么有FreeAnime](https://wiki.freeanime.org)
+* [社区官网](https://wiki.freeanime.org)
+* 注: 广告位合作(物美价廉)，请联系 < support@maishanzero.com >
+
+# 推荐网站位置
+
+* FreeAnime官方<wiki.freeanime.org>
+* Animekai.to <wiki.freeanime.org>
+
+> 补充 support@freeanime.org
 
 
+## 赞助我们
 
-
-#CN
-#非必要不使用磁力 wiki.freeanime.org
-#freeanime.org freeanime官方
-#animekai.to 推荐
+* [Maishan公益赞助](https://pay.maishanzero.com/freeanime)
