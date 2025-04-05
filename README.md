@@ -15,7 +15,7 @@ A collection of publicly uploaded anime websites
 
 > 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 > 
-> 一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。——Stewart Brand
+> 让免费永存.
 
 * [社区须知](https://wiki.freeanime.org)
 * [为什么有FreeAnime](https://wiki.freeanime.org)
