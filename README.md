@@ -2,8 +2,8 @@
 A collection of publicly uploaded anime websites
 
 <p align="center">
-    <a href="https://www.apachecn.org">
-        <img width="200" src="https://freeanime.org/mxtheme/images/logo.png">
+    <a href="https://freeanime.org">
+        <img width="200" src="images/logo.png">
     </a>
     <br >
     <a href="https://freeanime.org/"><img src="https://img.shields.io/badge/%3E-HOME-green.svg"></a>
