@@ -1,9 +1,7 @@
-# freeanime
-A collection of publicly uploaded anime websites
 
 <p align="center">
     <a href="https://freeanime.org">
-        <img width="200" src="images/logo.png">
+        <img width="200" src="https://tws.titannet.io/link?cid=bafkreiadp2q2te6vhwywepxnjz5evlrw2kssdinmjzn4gmsdyi4wrjdjca&ts=1743833739">
     </a>
     <br >
     <a href="https://freeanime.org/"><img src="https://img.shields.io/badge/%3E-HOME-green.svg"></a>
